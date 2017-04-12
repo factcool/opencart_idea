@@ -15,4 +15,4 @@ This script is tested on __OC v. 2.2__ and on __PHPStorm__ editor
 5. Paste whole copied content on top after `<?php` tag
 
 #Authors
-1. Lubos Beran (l.beran@factcool.sk / 3y3skill3r)
+1. Lubos Beran (l.beran@factcool.sk / eyeskiller)
